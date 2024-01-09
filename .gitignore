@@ -1,0 +1,14 @@
+# gitignore file
+*.o
+*.out
+*.app
+*.exe
+*.so
+*.dylib
+*.dll
+
+.idea/
+.DS_Store
+
+graphics_project
+./bin
