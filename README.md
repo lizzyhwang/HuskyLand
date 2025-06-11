@@ -1,4 +1,4 @@
-# Overview
+# Welcome to Huskyland!
 2D Pokemon-style multiplayer networked chatroom, written in Dlang and using SDL. Users navigate around the room, and all
 current clients are shown to each other real-time. Chats and emoji statuses are also broadcast across the server.
 Powered by a client/server/model pipeline that spins up the TCP network on a local IP address, manages the authoritative
@@ -7,7 +7,7 @@ game state, properly receives and transmits packets between players, and updates
 ### Demo
 https://youtu.be/SQxlqHAjM1w?si=OnG7bwTU9z0qIYE_
 
-# Building Software
+# Running the program
 Please follow the steps below to build and run the HuskyLand software on your system. 
 Ensure that you have** DUB — the D package manager** — and a **D compiler like DMD or LDC** installed on your system before proceeding.
 
